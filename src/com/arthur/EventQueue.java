@@ -76,7 +76,7 @@ public enum EventQueue {
 	}
 	
 	/**
-	 * Push event 
+	 * Push event with default page title and host name
 	 * 
 	 * @param eventCategory
 	 * @param eventAction
@@ -84,13 +84,27 @@ public enum EventQueue {
 	 * @param eventValue
 	 */
 	public void push(String eventCategory, String eventAction, String eventLabel, int eventValue) {
+		push(eventCategory, eventAction, eventLabel, eventValue, TrackerProperties.gaPageTitle, TrackerProperties.gaHostName);
+	}
+	
+	/**
+	 * Push event 
+	 * 
+	 * @param eventCategory
+	 * @param eventAction
+	 * @param eventLabel
+	 * @param eventValue
+	 * @param pageTitle
+	 * @param hostName
+	 */
+	public void push(String eventCategory, String eventAction, String eventLabel, int eventValue, String pageTitle, String hostName) {
 		AnalyticsRequestData data = new AnalyticsRequestData();
 		data.setEventCategory(eventCategory);
 		data.setEventAction(eventAction);
 		data.setEventLabel(eventLabel);
 		data.setEventValue(eventValue);
-		data.setPageTitle(TrackerProperties.gaPageTitle);
-		data.setHostName(TrackerProperties.gaHostName);
+		data.setPageTitle(pageTitle);
+		data.setHostName(hostName);
 		
 		vector.add(data);
 	}

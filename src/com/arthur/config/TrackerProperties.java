@@ -21,8 +21,8 @@ public class TrackerProperties {
 	static {
 		String filePath = PathUtils.getConfPath() + File.separator + fileName;
 		
-		// Load properties
-		Properties props = new Properties();
+	    // Load properties
+	    Properties props = new Properties();
 		try {
 			InputStream in = new BufferedInputStream (new FileInputStream(filePath));
 			props.load(in);

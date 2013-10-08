@@ -9,9 +9,16 @@ import com.arthur.analytic.DistrGoldConsume;
 public class GATracker {
 
 	/**
+	 * Google analytic
+	 */
+	public GATracker() {
+		
+	}
+	
+	/**
 	 * Track operation brief report
 	 * 
-	 * @param briefOperate
+	 * @param briefOperate Operation brief data
 	 */
 	public void trackBriefOperate(BriefOperate briefOperate) {
 		String eventCategory = Events.EC_OPERATION;
@@ -39,8 +46,8 @@ public class GATracker {
 	 * 
 	 * Distribution contains the all the level, from 1 ~ maxLevel
 	 * 
-	 * @param maxLevel
-	 * @param levelDistribution
+	 * @param maxLevel Max level
+	 * @param levelDistribution Level distribution map, key is level, value is player number
 	 */
 	public void trackDistrLevel(int maxLevel, Map<Integer, Integer> levelDistribution) {
 		String eventCategory = Events.EC_LEVEL_DIST;
@@ -59,7 +66,7 @@ public class GATracker {
 	/**
 	 * Track gold consume distribution
 	 * 
-	 * @param goldConsumeDistribution
+	 * @param goldConsumeDistribution Gold consume distribution, specific object list
 	 */
 	public void trackDistrGoldConsume(List<DistrGoldConsume> goldConsumeDistribution) {
 		String eventCategory = Events.EC_GOLD_CONSUME;

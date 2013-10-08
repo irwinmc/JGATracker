@@ -9,9 +9,9 @@
 	<property name="jar-source-file" value="${build}/${ant.project.name}-source-${version}.jar" />
 	<property name="deploy" value="${basedir}/target" />
 	
-	<!--======================== JAR FILE LOCATIONS ================== -->
+    <!--======================== JAR FILE LOCATIONS ================== -->
 	<path id="server.classpath">
-		<fileset dir="${lib}" includes="*.jar" />
+		<fileset dir="${lib}" includesfile="*.jar" />
 	</path>
 
 	<!--=========================== TARGETS ========================== -->
