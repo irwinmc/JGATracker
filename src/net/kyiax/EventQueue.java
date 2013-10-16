@@ -1,14 +1,15 @@
-package com.arthur;
+package net.kyiax;
 
 import java.util.Vector;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
 
+import net.kyiax.config.TrackerProperties;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.arthur.config.TrackerProperties;
+import net.kyiax.config.TrackerProperties;
 import com.dmurph.tracking.AnalyticsConfigData;
 import com.dmurph.tracking.AnalyticsRequestData;
 import com.dmurph.tracking.JGoogleAnalyticsTracker;

@@ -1,4 +1,4 @@
-package com.arthur;
+package net.kyiax;
 
 public interface Events {
 
@@ -43,6 +43,6 @@ public interface Events {
 	
 	public static final String EL_LEVEL = "Level";
 	
-	public static final String EL_GOLD_CONSUME_TYPE = "Gole Consume Type";
+	public static final String EL_GOLD_CONSUME_TYPE = "Gold Consume Type";
 	
 }

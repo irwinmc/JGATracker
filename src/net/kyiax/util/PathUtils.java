@@ -1,4 +1,4 @@
-package com.arthur.util;
+package net.kyiax.util;
 
 import java.io.File;
 

@@ -1,10 +1,14 @@
-package com.arthur;
+package net.kyiax;
 
 import java.util.List;
 import java.util.Map;
 
-import com.arthur.analytic.BriefOperate;
-import com.arthur.analytic.DistrGoldConsume;
+import net.kyiax.EventQueue;
+import net.kyiax.Events;
+import net.kyiax.analytic.BriefOperate;
+import net.kyiax.analytic.DistrGoldConsume;
+import net.kyiax.Events;
+import net.kyiax.analytic.BriefOperate;
 
 public class GATracker {
 
@@ -74,9 +78,9 @@ public class GATracker {
 		for (int i = 0; i < goldConsumeDistribution.size(); i++) {
 			DistrGoldConsume distrGoldConsume = goldConsumeDistribution.get(i);
 			if (distrGoldConsume != null) {
-				EventQueue.INSTANCE.push(eventCategory, Events.EA_CONSUME_VALUE, Events.EL_GOLD_CONSUME_TYPE + " " + i, distrGoldConsume.getConsumeValue());
-				EventQueue.INSTANCE.push(eventCategory, Events.EA_CONSUME_PLAYERCOUNT, Events.EL_GOLD_CONSUME_TYPE + " " + i, distrGoldConsume.getConsumePlayerCount());
-				EventQueue.INSTANCE.push(eventCategory, Events.EA_CONSUME_COUNT, Events.EL_GOLD_CONSUME_TYPE + " " + i, distrGoldConsume.getConsumeCount());
+				EventQueue.INSTANCE.push(eventCategory, Events.EA_CONSUME_VALUE, Events.EL_GOLD_CONSUME_TYPE + " " + distrGoldConsume.getType(), distrGoldConsume.getConsumeValue());
+				EventQueue.INSTANCE.push(eventCategory, Events.EA_CONSUME_PLAYERCOUNT, Events.EL_GOLD_CONSUME_TYPE + " " + distrGoldConsume.getType(), distrGoldConsume.getConsumePlayerCount());
+				EventQueue.INSTANCE.push(eventCategory, Events.EA_CONSUME_COUNT, Events.EL_GOLD_CONSUME_TYPE + " " + distrGoldConsume.getType(), distrGoldConsume.getConsumeCount());
 			}
 		}
 	}

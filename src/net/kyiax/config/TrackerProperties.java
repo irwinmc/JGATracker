@@ -1,4 +1,4 @@
-package com.arthur.config;
+package net.kyiax.config;
 
 import java.io.BufferedInputStream;
 import java.io.File;
@@ -7,7 +7,8 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
 
-import com.arthur.util.PathUtils;
+import net.kyiax.util.PathUtils;
+import net.kyiax.util.PathUtils;
 
 public class TrackerProperties {
 

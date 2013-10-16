@@ -1,16 +1,15 @@
-package com.arthur;
+package net.kyiax;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import net.kyiax.analytic.BriefOperate;
+import net.kyiax.analytic.DistrGoldConsume;
+import net.kyiax.util.IntegerUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
-import com.arthur.analytic.BriefOperate;
-import com.arthur.analytic.DistrGoldConsume;
-import com.arthur.util.IntegerUtils;
 
 public class GATrackerTest {
 	

@@ -1,4 +1,4 @@
-package com.arthur.analytic;
+package net.kyiax.analytic;
 
 public class DistrGoldConsume {
 
