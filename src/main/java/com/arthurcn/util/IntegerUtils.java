@@ -1,4 +1,4 @@
-package net.kyiax.util;
+package com.arthurcn.util;
 
 /**
  * Integer utilities

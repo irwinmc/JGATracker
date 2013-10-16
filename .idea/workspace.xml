@@ -2,38 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9970871-e2f5-4eb3-96a7-cb345a94516d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="DELETED" beforePath="E:\Workspace\JGATracker\build\classes\com\arthur\EventQueue$1.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Workspace\JGATracker\build\classes\com\arthur\EventQueue.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Workspace\JGATracker\build\classes\com\arthur\Events.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Workspace\JGATracker\build\classes\com\arthur\GATracker.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Workspace\JGATracker\build\classes\com\arthur\analytic\BriefOperate.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Workspace\JGATracker\build\classes\com\arthur\analytic\DistrGoldConsume.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Workspace\JGATracker\build\classes\com\arthur\analytic\DistrLevel.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Workspace\JGATracker\build\classes\com\arthur\config\TrackerProperties.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Workspace\JGATracker\build\classes\com\arthur\util\PathUtils.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/jgatracker-0.1.jar" afterPath="$PROJECT_DIR$/build/jgatracker-0.1.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jgatracker-0.1.jar" afterPath="$PROJECT_DIR$/target/jgatracker-0.1.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/jgatracker-source-0.1.jar" afterPath="$PROJECT_DIR$/build/jgatracker-source-0.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_dmurph_JGoogleAnalyticsTracker_1_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="DELETED" beforePath="E:\Workspace\JGATracker\lib\JGoogleAnalyticsTracker-1.2.1-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\Workspace\JGATracker\lib\log4j-1.2.16.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\Workspace\JGATracker\lib\slf4j-api-1.6.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\Workspace\JGATracker\lib\slf4j-log4j12-1.6.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\Workspace\JGATracker\src\log4j.properties" afterPath="" />
+      <change type="DELETED" beforePath="E:\Workspace\JGATracker\src\net\kyiax\EventQueue.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Workspace\JGATracker\src\net\kyiax\Events.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Workspace\JGATracker\src\net\kyiax\GATracker.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Workspace\JGATracker\src\net\kyiax\analytic\BriefOperate.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Workspace\JGATracker\src\net\kyiax\analytic\DistrGoldConsume.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Workspace\JGATracker\src\net\kyiax\analytic\DistrLevel.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Workspace\JGATracker\src\net\kyiax\config\TrackerProperties.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Workspace\JGATracker\src\net\kyiax\util\PathUtils.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JGATracker.iml" afterPath="$PROJECT_DIR$/JGATracker.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.xml" afterPath="$PROJECT_DIR$/build.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf/gatracker.properties" afterPath="$PROJECT_DIR$/conf/gatracker.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/log4j.properties" afterPath="$PROJECT_DIR$/src/log4j.properties" />
-      <change type="MOVED" beforePath="E:\Workspace\JGATracker\src\com\arthur\EventQueue.java" afterPath="$PROJECT_DIR$/src/net/kyiax/EventQueue.java" />
-      <change type="MOVED" beforePath="E:\Workspace\JGATracker\src\com\arthur\Events.java" afterPath="$PROJECT_DIR$/src/net/kyiax/Events.java" />
-      <change type="MOVED" beforePath="E:\Workspace\JGATracker\src\com\arthur\GATracker.java" afterPath="$PROJECT_DIR$/src/net/kyiax/GATracker.java" />
-      <change type="MOVED" beforePath="E:\Workspace\JGATracker\src\com\arthur\analytic\BriefOperate.java" afterPath="$PROJECT_DIR$/src/net/kyiax/analytic/BriefOperate.java" />
-      <change type="MOVED" beforePath="E:\Workspace\JGATracker\src\com\arthur\analytic\DistrGoldConsume.java" afterPath="$PROJECT_DIR$/src/net/kyiax/analytic/DistrGoldConsume.java" />
-      <change type="MOVED" beforePath="E:\Workspace\JGATracker\src\com\arthur\analytic\DistrLevel.java" afterPath="$PROJECT_DIR$/src/net/kyiax/analytic/DistrLevel.java" />
-      <change type="MOVED" beforePath="E:\Workspace\JGATracker\src\com\arthur\config\TrackerProperties.java" afterPath="$PROJECT_DIR$/src/net/kyiax/config/TrackerProperties.java" />
-      <change type="MOVED" beforePath="E:\Workspace\JGATracker\src\com\arthur\util\PathUtils.java" afterPath="$PROJECT_DIR$/src/net/kyiax/util/PathUtils.java" />
-      <change type="MOVED" beforePath="E:\Workspace\JGATracker\test\com\arthur\GATrackerTest.java" afterPath="$PROJECT_DIR$/test/net/kyiax/GATrackerTest.java" />
-      <change type="MOVED" beforePath="E:\Workspace\JGATracker\test\com\arthur\util\IntegerUtils.java" afterPath="$PROJECT_DIR$/test/net/kyiax/util/IntegerUtils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="E:\Workspace\JGATracker\test\net\kyiax\GATrackerTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/arthurcn/GATrackerTest.java" />
+      <change type="MOVED" beforePath="E:\Workspace\JGATracker\test\net\kyiax\util\IntegerUtils.java" afterPath="$PROJECT_DIR$/src/main/java/com/arthurcn/util/IntegerUtils.java" />
     </list>
     <ignored path="JGATracker.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381914050246" ignored="false" />
+    <file path="/Dummy.txt" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381914920274" ignored="false" />
     <file path="/JGATracker.iml" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381217190937" ignored="false" />
     <file path="/build.xml" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381913100089" ignored="false" />
     <file path="/a.java" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381914139391" ignored="false" />
@@ -46,7 +44,7 @@
     <file path="/HelloAnalyticsApi.java" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381223393625" ignored="false" />
     <file path="$PROJECT_DIR$/../JGAClient/src/dev/kyia/GaDataFetcher.java" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381457792307" ignored="false" />
     <file path="/a.dummy" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381457691393" ignored="false" />
-    <file path="/fragment.java" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381457856836" ignored="false" />
+    <file path="/fragment.java" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381916715580" ignored="false" />
     <file path="$PROJECT_DIR$/../JGAClient/src/dev/kyia/servlet/ServletDemo.java" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381457808277" ignored="false" />
     <file path="$PROJECT_DIR$/../JGAClient/web/WEB-INF/web.xml" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381457841010" ignored="false" />
     <file path="$PROJECT_DIR$/../JGAClient/src/dev/kyiax/servlet/ServletDemo.java" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381457834283" ignored="false" />
@@ -91,6 +89,9 @@
     <file path="$PROJECT_DIR$/../JGAClient/web/app/view/Menu.js" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381481561924" ignored="false" />
     <file path="/Menu.js" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381481505469" ignored="false" />
     <file path="$PROJECT_DIR$/../ZealHttp/build.xml" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381913109292" ignored="false" />
+    <file path="/pom.xml" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381916781078" ignored="false" />
+    <file path="/log4j.properties" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381916213265" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/com/arthurcn/util/PathUtils.java" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381916732840" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,19 +152,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="gatracker.properties" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conf/gatracker.properties">
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="115" selection-end="115" vertical-scroll-proportion="0.0">
+            <state line="81" column="12" selection-start="2073" selection-end="2073" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GATracker.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/net/kyiax/GATracker.java">
+      <file leaf-file-name="build.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="43" selection-start="1984" selection-end="1984" vertical-scroll-proportion="0.60414267">
+            <state line="33" column="42" selection-start="1204" selection-end="1204" vertical-scroll-proportion="0.980198">
               <folding />
             </state>
           </provider>
@@ -194,9 +195,22 @@
         <option value="$PROJECT_DIR$/src/com/arthur/Events.java" />
         <option value="$PROJECT_DIR$/src/com/kyiax/analytic/BriefOperate.java" />
         <option value="$PROJECT_DIR$/src/net/kyiax/analytic/BriefOperate.java" />
-        <option value="$PROJECT_DIR$/build.xml" />
         <option value="$PROJECT_DIR$/conf/gatracker.properties" />
+        <option value="$PROJECT_DIR$/src/net/kyiax/GATracker.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/net/a.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/arthurcn/GATrackerTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/build.xml" />
       </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectFrameBounds">
@@ -250,52 +264,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JGATracker" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JGATracker" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JGATracker" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JGATracker" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kyiax" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JGATracker" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JGATracker" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="conf" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -324,39 +292,24 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
     <property name="GenerateAntBuildDialog.backupFiles" value="true" />
     <property name="dynamic.classpath" value="false" />
     <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Workspace\JGATracker\src\main\java\net\kyiax\util" />
+      <recent name="E:\Workspace\JGATracker\src\main\resources" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="net" />
+      <recent name="net.kyiax.util" />
       <recent name="net.kyiax" />
       <recent name="com" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GATrackerTest">
-    <configuration default="false" name="GATrackerTest" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.kyiax.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.kyiax.GATrackerTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JGATracker" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
@@ -448,14 +401,7 @@
       <patterns />
       <method />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Application.GATrackerTest" />
-    </list>
-    <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.GATrackerTest" />
-      </list>
-    </recent_temporary>
+    <list size="0" />
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
@@ -493,7 +439,11 @@
       <created>1381217765399</created>
       <updated>1381217765399</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1. Change package&#10;">
+      <created>1381914928370</created>
+      <updated>1381914928370</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -503,26 +453,26 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32959184" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35785952" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5208333" sideWeight="0.66815144" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.52029914" sideWeight="0.6098105" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3585746" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39018953" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3301282" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19871795" sideWeight="0.6089239" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19871795" sideWeight="0.6098105" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32887402" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35785952" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39107612" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -605,96 +555,6 @@
     </buildFile>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/net/kyiax/GATrackerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/kyiax/GATracker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="99" selection-start="697" selection-end="697" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JGATracker.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="8" selection-start="2304" selection-end="2304" vertical-scroll-proportion="1.0588236" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/kyiax/EventQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="5" selection-start="1808" selection-end="1808" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/kyiax/config/TrackerProperties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="12" selection-start="1052" selection-end="1052" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/kyiax/analytic/DistrGoldConsume.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="27" selection-start="282" selection-end="297" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/net/kyiax/GATrackerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="4" selection-start="645" selection-end="645" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="30" selection-start="388" selection-end="388" vertical-scroll-proportion="0.21587302" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/kyiax/Events.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="70" selection-start="935" selection-end="935" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/kyiax/analytic/BriefOperate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="456" selection-end="456" vertical-scroll-proportion="0.019562716">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="96" selection-end="96" vertical-scroll-proportion="0.03452244">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/kyiax/analytic/DistrLevel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="42" selection-end="42" vertical-scroll-proportion="0.03452244">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/conf/gatracker.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="0" selection-start="115" selection-end="115" vertical-scroll-proportion="0.0">
@@ -702,9 +562,88 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/kyiax/GATracker.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arthurcn/Events.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="43" selection-start="1984" selection-end="1984" vertical-scroll-proportion="0.60414267">
+        <state line="31" column="70" selection-start="935" selection-end="935" vertical-scroll-proportion="0.53571427">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arthurcn/EventQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="5" selection-start="1844" selection-end="1844" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arthurcn/config/TrackerProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="12" selection-start="1020" selection-end="1020" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arthurcn/GATracker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="0" selection-start="2740" selection-end="2740" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arthurcn/analytic/BriefOperate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="456" selection-end="456" vertical-scroll-proportion="0.2937788">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arthurcn/analytic/DistrGoldConsume.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="27" selection-start="282" selection-end="297" vertical-scroll-proportion="0.2937788">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arthurcn/analytic/DistrLevel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="13" selection-start="42" selection-end="42" vertical-scroll-proportion="0.03456221">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="422" selection-end="422" vertical-scroll-proportion="0.17281106">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arthurcn/util/IntegerUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="13" selection-start="87" selection-end="87" vertical-scroll-proportion="-0.2937788">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/arthurcn/GATrackerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="4" selection-start="657" selection-end="657" vertical-scroll-proportion="0.017281106">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="12" selection-start="2073" selection-end="2073" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="42" selection-start="1204" selection-end="1204" vertical-scroll-proportion="0.980198">
           <folding />
         </state>
       </provider>
@@ -773,6 +712,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: com.dmurph:JGoogleAnalyticsTracker:1.2.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

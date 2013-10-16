@@ -31,7 +31,7 @@
 
 	<target name="jar" depends="compile">
 		<jar destfile="${jar-file}" basedir="${classes}" />
-		<jar destfile="${jar-source-file}" excludesfile="${src}/log4j.properties" basedir="${src}" />
+		<jar destfile="${jar-source-file}" basedir="${src}" />
 	</target>
 
 	<target name="deploy" depends="jar">

@@ -1,13 +1,13 @@
-package net.kyiax;
+package com.arthurcn;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import net.kyiax.analytic.BriefOperate;
-import net.kyiax.analytic.DistrGoldConsume;
-import net.kyiax.util.IntegerUtils;
+import com.arthurcn.analytic.BriefOperate;
+import com.arthurcn.analytic.DistrGoldConsume;
+import com.arthurcn.util.IntegerUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
