@@ -29,9 +29,10 @@ public interface Events {
 	 */
 	public static final String EL_PLAYER_CREATE_COUNT = "Player Create Count";
 	public static final String EL_TOTAL_REGISTER_COUNT = "Total Register Count";
+	public static final String EL_REGISTER_ACCOUNT_COUNT = "Register Account Count";
+	public static final String EL_LOGIN_ACCOUNT_COUNT = "Login Account Count";
 	public static final String EL_REGISTER_CONVERSION = "Register Conversion";
 	public static final String EL_ENTER_GAME_PLAYER_COUNT = "Enter Game Player Count";
-	public static final String EL_LOGIN_ACCOUNT_COUNT = "Login Account Count";
 	public static final String EL_ONLINE_AVG_COUNT = "Online Avg Count";
 	public static final String EL_ONLINE_MAX_COUNT = "Online Max Count";
 	public static final String EL_TOTAL_CHARGE_MONEY = "Total Charge Money";

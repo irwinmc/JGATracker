@@ -43,9 +43,10 @@ public class GATracker {
 
 		EventQueue.INSTANCE.push(eventCategory, eventAction, Events.EL_PLAYER_CREATE_COUNT, briefOperate.getPlayerCreateCount(), pageTitle, hostName);
 		EventQueue.INSTANCE.push(eventCategory, eventAction, Events.EL_TOTAL_REGISTER_COUNT, briefOperate.getTotalRegisterCount(), pageTitle, hostName);
+		EventQueue.INSTANCE.push(eventCategory, eventAction, Events.EL_REGISTER_ACCOUNT_COUNT, briefOperate.getRegisterAccountCount(), pageTitle, hostName);
+		EventQueue.INSTANCE.push(eventCategory, eventAction, Events.EL_LOGIN_ACCOUNT_COUNT, briefOperate.getLoginAccountCount(), pageTitle, hostName);
 		EventQueue.INSTANCE.push(eventCategory, eventAction, Events.EL_REGISTER_CONVERSION, briefOperate.getRegisterConversion(), pageTitle, hostName);
 		EventQueue.INSTANCE.push(eventCategory, eventAction, Events.EL_ENTER_GAME_PLAYER_COUNT, briefOperate.getEnterGamePlayerCount(), pageTitle, hostName);
-		EventQueue.INSTANCE.push(eventCategory, eventAction, Events.EL_LOGIN_ACCOUNT_COUNT, briefOperate.getLoginAccountCount(), pageTitle, hostName);
 
 		EventQueue.INSTANCE.push(eventCategory, eventAction, Events.EL_ONLINE_AVG_COUNT, briefOperate.getOnlineAvgCount(), pageTitle, hostName);
 		EventQueue.INSTANCE.push(eventCategory, eventAction, Events.EL_ONLINE_MAX_COUNT, briefOperate.getOnlineMaxCount(), pageTitle, hostName);

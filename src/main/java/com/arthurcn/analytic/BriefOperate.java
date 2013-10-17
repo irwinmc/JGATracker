@@ -4,9 +4,10 @@ public class BriefOperate {
 
 	private int playerCreateCount;
 	private int totalRegisterCount;
+	private int registerAccountCount;
+	private int loginAccountCount;
 	private int registerConversion;
 	private int enterGamePlayerCount;
-	private int loginAccountCount;
 	private int onlineAvgCount;
 	private int onlineMaxCount;
 	private int totalChargeMoney;
@@ -32,6 +33,22 @@ public class BriefOperate {
 		this.totalRegisterCount = totalRegisterCount;
 	}
 
+	public int getRegisterAccountCount() {
+		return registerAccountCount;
+	}
+
+	public void setRegisterAccountCount(int registerAccountCount) {
+		this.registerAccountCount = registerAccountCount;
+	}
+
+	public int getLoginAccountCount() {
+		return loginAccountCount;
+	}
+
+	public void setLoginAccountCount(int loginAccountCount) {
+		this.loginAccountCount = loginAccountCount;
+	}
+
 	public int getRegisterConversion() {
 		return registerConversion;
 	}
@@ -46,14 +63,6 @@ public class BriefOperate {
 
 	public void setEnterGamePlayerCount(int enterGamePlayerCount) {
 		this.enterGamePlayerCount = enterGamePlayerCount;
-	}
-
-	public int getLoginAccountCount() {
-		return loginAccountCount;
-	}
-
-	public void setLoginAccountCount(int loginAccountCount) {
-		this.loginAccountCount = loginAccountCount;
 	}
 
 	public int getOnlineAvgCount() {
