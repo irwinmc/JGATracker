@@ -1,7 +1,7 @@
 JGATracker
 ==========
 
-##1. 运营基础数据
+#### 说明：运营基础数据
 + playerCreateCount 创建角色数
 + totalRegisterCount 累计注册人数
 + registerConversion 注册转化率
@@ -16,3 +16,7 @@ JGATracker
 + arpu ARPU
 + activePayPermeability	日活跃付费渗透率
 
+*可以省略部分数据，比如注册转化率等，涉及到二级数据的计算
+
+#### 使用方法
+参考 test 目录下的 GATrackerTest.java
