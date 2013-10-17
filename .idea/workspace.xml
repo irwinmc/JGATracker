@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9970871-e2f5-4eb3-96a7-cb345a94516d" name="Default" comment="" />
+    <list default="true" id="d9970871-e2f5-4eb3-96a7-cb345a94516d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/arthurcn/GATracker.java" afterPath="$PROJECT_DIR$/src/main/java/com/arthurcn/GATracker.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/arthurcn/config/TrackerProperties.java" afterPath="$PROJECT_DIR$/src/main/java/com/arthurcn/config/TrackerProperties.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf/gatracker.properties" afterPath="$PROJECT_DIR$/conf/gatracker.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="JGATracker.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381917292235" ignored="false" />
     <file path="/JGATracker.iml" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381217190937" ignored="false" />
     <file path="/build.xml" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381913100089" ignored="false" />
     <file path="/a.java" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381914139391" ignored="false" />
-    <file path="/a.xml" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381914140374" ignored="false" />
-    <file path="/GATracker.java" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381218035052" ignored="false" />
+    <file path="/a.xml" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381917760016" ignored="false" />
+    <file path="/GATracker.java" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381993376048" ignored="false" />
     <file path="$PROJECT_DIR$/../JGAPageViewer/.idea/workspace.xml" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381284026872" ignored="false" />
     <file path="$PROJECT_DIR$/../JGAPageViewer/JGAPageViewer.iml" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381224235564" ignored="false" />
     <file path="$PROJECT_DIR$/../JGAPageViewer/src/dev/kyia/pageviewer/HelloAnalyticsApi.java" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381224494071" ignored="false" />
@@ -17,7 +23,7 @@
     <file path="/HelloAnalyticsApi.java" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381223393625" ignored="false" />
     <file path="$PROJECT_DIR$/../JGAClient/src/dev/kyia/GaDataFetcher.java" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381457792307" ignored="false" />
     <file path="/a.dummy" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381457691393" ignored="false" />
-    <file path="/fragment.java" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381916715580" ignored="false" />
+    <file path="/fragment.java" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381993551636" ignored="false" />
     <file path="$PROJECT_DIR$/../JGAClient/src/dev/kyia/servlet/ServletDemo.java" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381457808277" ignored="false" />
     <file path="$PROJECT_DIR$/../JGAClient/web/WEB-INF/web.xml" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381457841010" ignored="false" />
     <file path="$PROJECT_DIR$/../JGAClient/src/dev/kyiax/servlet/ServletDemo.java" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381457834283" ignored="false" />
@@ -64,7 +70,16 @@
     <file path="$PROJECT_DIR$/../ZealHttp/build.xml" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381913109292" ignored="false" />
     <file path="/pom.xml" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381916781078" ignored="false" />
     <file path="/log4j.properties" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381916213265" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381917304079" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyApp1/AndroidManifest.xml" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381993637399" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyApp1/res/values/strings.xml" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381988555996" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyApp1/src/cn/kyia/app/MyActivity.java" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381988555996" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyApp1/res/layout/main.xml" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381988555996" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyApp1/build.xml" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381988555996" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyApp1/.idea/workspace.xml" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381993874544" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyApp1/.idea/misc.xml" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381990362355" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyApp1/project.properties" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381990358759" ignored="false" />
+    <file path="/TrackerProperties.java" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381993324180" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyApp1/gen/cn/kyia/app/R.java" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381993640047" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,19 +140,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="GATracker.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/arthurcn/GATracker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="81" column="12" selection-start="2073" selection-end="2073" vertical-scroll-proportion="0.0">
+            <state line="29" column="57" selection-start="536" selection-end="589" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/build.xml">
+      <file leaf-file-name="BriefOperate.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/arthurcn/analytic/BriefOperate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="42" selection-start="1204" selection-end="1204" vertical-scroll-proportion="0.8839286">
+            <state line="17" column="0" selection-start="459" selection-end="459" vertical-scroll-proportion="0.35465926">
               <folding />
             </state>
           </provider>
@@ -168,14 +183,16 @@
         <option value="$PROJECT_DIR$/src/com/arthur/Events.java" />
         <option value="$PROJECT_DIR$/src/com/kyiax/analytic/BriefOperate.java" />
         <option value="$PROJECT_DIR$/src/net/kyiax/analytic/BriefOperate.java" />
-        <option value="$PROJECT_DIR$/conf/gatracker.properties" />
         <option value="$PROJECT_DIR$/src/net/kyiax/GATracker.java" />
         <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/src/main/java/net/a.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/a.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/arthurcn/GATrackerTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/build.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/conf/gatracker.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arthurcn/config/TrackerProperties.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arthurcn/GATracker.java" />
       </list>
     </option>
   </component>
@@ -187,10 +204,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="192" />
+    <option name="y" value="86" />
+    <option name="width" value="960" />
+    <option name="height" value="920" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -234,6 +251,108 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="JGATracker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JGATracker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JGATracker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JGATracker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JGATracker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JGATracker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JGATracker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="arthurcn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JGATracker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JGATracker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="arthurcn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="analytic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JGATracker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JGATracker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -428,29 +547,29 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="false" />
+    <frame x="192" y="86" width="960" height="920" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32887402" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32887402" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35785952" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.52029914" sideWeight="0.67112595" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.52029914" sideWeight="0.6099796" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3585746" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39018953" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42697883" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3301282" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19871795" sideWeight="0.67112595" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.41517857" sideWeight="0.5730212" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32887402" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -537,50 +656,6 @@
     </buildFile>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/conf/gatracker.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="115" selection-end="115" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/arthurcn/Events.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="70" selection-start="935" selection-end="935" vertical-scroll-proportion="0.53571427">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/arthurcn/EventQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="5" selection-start="1844" selection-end="1844" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/arthurcn/config/TrackerProperties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="12" selection-start="1020" selection-end="1020" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/arthurcn/GATracker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="0" selection-start="2740" selection-end="2740" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/arthurcn/analytic/BriefOperate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="456" selection-end="456" vertical-scroll-proportion="0.2937788">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/arthurcn/analytic/DistrGoldConsume.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="27" selection-start="282" selection-end="297" vertical-scroll-proportion="0.2937788">
@@ -609,23 +684,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/arthurcn/GATrackerTest.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="4" selection-start="657" selection-end="657" vertical-scroll-proportion="0.017281106">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="12" selection-start="2073" selection-end="2073" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="42" selection-start="1204" selection-end="1204" vertical-scroll-proportion="0.8839286">
+        <state line="1" column="25" selection-start="54" selection-end="64" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JGATracker.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="16" selection-start="394" selection-end="394" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/gatracker.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="30" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arthurcn/EventQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="8" selection-start="1284" selection-end="1284" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#1329#1687#0" expanded="true" />
+            <element signature="e#1681#1682#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arthurcn/Events.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="70" selection-start="938" selection-end="938" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arthurcn/config/TrackerProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="5" selection-start="1115" selection-end="1115" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/arthurcn/GATrackerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="18" selection-start="678" selection-end="678" vertical-scroll-proportion="0.47368422">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arthurcn/GATracker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="57" selection-start="536" selection-end="589" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arthurcn/analytic/BriefOperate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="459" selection-end="459" vertical-scroll-proportion="0.35465926">
           <folding />
         </state>
       </provider>

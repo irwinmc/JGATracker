@@ -14,7 +14,7 @@ public class TrackerProperties {
 	private static String fileName = "gatracker.properties";
 	
 	public static String gaEnable = "1";
-	public static String gaTrackingCode = "UA-43779467-1";
+	public static String gaTrackingCode = "UA-43779597-1";
 	public static String gaPageTitle = "Event";
 	public static String gaHostName = "game.arthurcn.com";
 	
