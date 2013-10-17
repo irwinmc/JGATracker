@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9970871-e2f5-4eb3-96a7-cb345a94516d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/arthurcn/analytic/BriefOperate.java" afterPath="$PROJECT_DIR$/src/main/java/com/arthurcn/analytic/BriefOperate.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/arthurcn/Events.java" afterPath="$PROJECT_DIR$/src/main/java/com/arthurcn/Events.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/arthurcn/GATracker.java" afterPath="$PROJECT_DIR$/src/main/java/com/arthurcn/GATracker.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JGATracker.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381917292235" ignored="false" />
+    <file path="/Dummy.txt" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381995201605" ignored="false" />
     <file path="/JGATracker.iml" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381217190937" ignored="false" />
     <file path="/build.xml" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381913100089" ignored="false" />
     <file path="/a.java" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381914139391" ignored="false" />
@@ -75,7 +71,7 @@
     <file path="$PROJECT_DIR$/../MyApp1/src/cn/kyia/app/MyActivity.java" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381988555996" ignored="false" />
     <file path="$PROJECT_DIR$/../MyApp1/res/layout/main.xml" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381988555996" ignored="false" />
     <file path="$PROJECT_DIR$/../MyApp1/build.xml" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381988555996" ignored="false" />
-    <file path="$PROJECT_DIR$/../MyApp1/.idea/workspace.xml" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381995175035" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyApp1/.idea/workspace.xml" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381995184568" ignored="false" />
     <file path="$PROJECT_DIR$/../MyApp1/.idea/misc.xml" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381990362355" ignored="false" />
     <file path="$PROJECT_DIR$/../MyApp1/project.properties" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381990358759" ignored="false" />
     <file path="/TrackerProperties.java" changelist="d9970871-e2f5-4eb3-96a7-cb345a94516d" time="1381993324180" ignored="false" />
@@ -425,7 +421,11 @@
       <created>1381917295599</created>
       <updated>1381917295599</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="1. Add a attribute of brief operate data&#10;">
+      <created>1381995205523</created>
+      <updated>1381995205523</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -501,7 +501,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="1. Change to maven&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="1. Add a attribute of brief operate data&#10;" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -519,6 +519,7 @@
     <MESSAGE value="1. Add intellij project file" />
     <MESSAGE value="1. Change package&#10;" />
     <MESSAGE value="1. Change to maven&#10;" />
+    <MESSAGE value="1. Add a attribute of brief operate data&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
